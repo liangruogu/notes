@@ -1,0 +1,10 @@
+@import url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@master/patched-fonts/JetBrainsMono/Regular/complete/JetBrains%20Mono%20Nerd%20Font%20Complete.ttf");
+
+body {
+    font-family: "JetBrains Mono Nerd Font", monospace;
+}
+
+code, pre, tt {
+    font-family: "JetBrains Mono Nerd Font", monospace !important;
+}
+

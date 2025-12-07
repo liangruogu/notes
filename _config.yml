@@ -1,0 +1,11 @@
+theme: jekyll-theme-hacker
+
+include:
+  - assets
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "assets/custom.css"
+
