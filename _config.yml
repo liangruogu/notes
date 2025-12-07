@@ -1,13 +1,12 @@
 title: "Notes"
 description: "My Learning Notes"
 
-theme: null
-
-remote_theme: abhinavs/moonwalk
+remote_theme: pages-themes/hacker@v0.2.0
 
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 markdown: kramdown
 kramdown:
