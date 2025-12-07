@@ -1,6 +1,6 @@
 ## Nav
 ### RL
-- [PPO from scratch]("PPO From Scratch.md")
+- [PPO from scratch](PPO_From_Scratch.md)
 
 
 ## Sayings
